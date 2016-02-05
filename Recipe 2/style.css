@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,100,300,700,900);
+body{
+font-family: "PT Serif", sans-serif;
+font-size: 30px;
+
+}
+h1{
+  font-family: "PT Serif", sans-serif;
+  font-weight: 700;
+  color:#3F250B;
+}
+#para1{
+font-family: "Raleway", sans-serif;
+font-weight: 300;
+color:#FA8072;
+}
+
+h2{
+font-family:"PT Serif", sans-serif;
+font-weight: 700;
+color:#3F250B;
+
+}
+Li{
+  font-family: "Raleway", sans-serif;
+  font-weight: 300;
+  color:#FA8072;
+
+}
