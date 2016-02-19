@@ -2,7 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,100,300,700,900);
 body{
 font-family: "PT Serif", sans-serif;
-font-size: 30px;
+font-size: 26px;
 
 }
 h1{
@@ -28,3 +28,27 @@ Li{
   color:#FA8072;
 
 }
+#testDiv1 {
+  width: 33.3%;
+  padding: 5px;
+  margin: auto;
+  box-sizing: border-box;
+  float: left;
+
+}
+  #testDiv2{
+    width: 33.3%;
+    padding: 5px;
+    margin: auto;
+    box-sizing: border-box;
+    float: left;
+
+  }
+  #testDiv3{
+    #testDiv2{
+      width: 33.3%;
+      padding: 5px;
+      margin: auto;
+      box-sizing: border-box;
+      float: left;
+  }
