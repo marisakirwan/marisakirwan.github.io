@@ -1,0 +1,100 @@
+
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,700,300);
+body{
+  background-color: #7FFF00;
+  color: 	#8A2BE2;
+  font-weight: bolder;
+}
+header{
+  color:	#FF7F50;
+  float: left;
+}
+h1{
+  color:	#006400;
+  float:right;
+  width: 75%;
+}
+#beware{
+  color:	#483D8B;
+  font-style: oblique;
+  font-family: "Oswald", sans-serif;
+  width:45%;
+  margin: auto;
+}
+#the{
+  font-weight: 700;
+  font-size: 300%;
+  letter-spacing: 33px;
+  margin: 50px;
+  color:	#FF1493;
+}
+h2{
+  color:	#F08080;
+  float: left;
+  border-style:  dotted;
+  padding: 85px;
+  border width: 10px;
+
+}
+h3{
+  background-color: 	#000080;
+  float: left;
+  letter-spacing: 50px;
+}
+p{
+  align: center;
+  float: right;
+
+
+}
+#but{
+  font-family: "Oswald",sans-serif;
+  font-size: 100%;
+  marin:35%;
+  float:left;
+
+}
+section1{
+  padding: 30px;
+  margin-right: auto;
+}
+
+li{
+  color:	#4682B4;
+  font-weight: bolder;
+}
+ol{
+  color:	#FFF5EE;
+
+}
+
+h4{
+  font-family: "Oswald", sans-serif;
+  text-decoration: line-through;
+  color: 	#FF6347;
+  float: center;
+}
+
+img{
+  float: right;
+  width: 50%
+}
+a{
+  box-sizing: border-box;
+  border width: 50px;
+  width: 80%;
+  font-weight: 300;
+
+}
+p{
+max-width: 100px;
+word-spacing: 50px
+}
+
+}
+footer{
+  background-color:black;
+  font-family: "Oswald", sans-serif;
+
+
+}
