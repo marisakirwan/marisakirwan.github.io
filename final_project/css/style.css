@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono:400,300);
+@import url(https://fonts.googleapis.com/css?family=Nixie+One);
+
+body{
+  font-family: "Nixie One";
+  height:100%;
+}
+h1{
+  font-family: "Roboto Mono";
+  font-weight: 300;
+}
+h2{
+  color:#980000;
+}
+ nav a{
+   color:grey;
+ }
+ 
